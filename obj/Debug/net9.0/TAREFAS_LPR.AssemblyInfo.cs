@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TAREFAS_LPR")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5cbe4e0910b46a535dbea2442fb5afeefe404b60")]
 [assembly: System.Reflection.AssemblyProductAttribute("TAREFAS_LPR")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TAREFAS_LPR")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
