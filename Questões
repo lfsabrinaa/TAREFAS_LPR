@@ -1,0 +1,30 @@
+*Exercício 1 C++
+VETOR: Construa um algoritmo
+que leia 10 números inteiros e armazene-os
+em um vetor (use o for para fazer a leitura).
+Depois, crie automaticamente dois
+vetores, um contendo apenas os números
+pares e outro os números ímpares
+digitados. 
+
+*Exercício 2 C++
+VETOR: Construa um algoritmo
+que leia 10 números inteiros. Depois
+solicite para o usuário um número que ele
+gostaria de pesquisar no vetor. Caso o
+número exista no vetor, mostre em qual
+posição (ou quais) ele aparece e quantas
+ocorrências foram detectadas.
+
+*Exercício 3 C#
+MATRIZ: A tabela a seguir
+mostra a distância de quatro cidades entre
+si. Por exemplo, a distância entre Vitória e
+Belo Horizonte é de 524 km. 
+Crie um programa
+que leia essa matriz e informe ao usuário a
+distância entre duas cidades por ele
+fornecidas.
+O programa deve ficar repetindo até que o
+usuário informe a mesma cidade como
+origem e destino.

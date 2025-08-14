@@ -1,0 +1,14 @@
+C:\Users\Sabrina\Desktop\TAREFAS_LPR\bin\Debug\net9.0\TAREFAS_LPR.exe
+C:\Users\Sabrina\Desktop\TAREFAS_LPR\bin\Debug\net9.0\TAREFAS_LPR.deps.json
+C:\Users\Sabrina\Desktop\TAREFAS_LPR\bin\Debug\net9.0\TAREFAS_LPR.runtimeconfig.json
+C:\Users\Sabrina\Desktop\TAREFAS_LPR\bin\Debug\net9.0\TAREFAS_LPR.dll
+C:\Users\Sabrina\Desktop\TAREFAS_LPR\bin\Debug\net9.0\TAREFAS_LPR.pdb
+C:\Users\Sabrina\Desktop\TAREFAS_LPR\obj\Debug\net9.0\TAREFAS_LPR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sabrina\Desktop\TAREFAS_LPR\obj\Debug\net9.0\TAREFAS_LPR.AssemblyInfoInputs.cache
+C:\Users\Sabrina\Desktop\TAREFAS_LPR\obj\Debug\net9.0\TAREFAS_LPR.AssemblyInfo.cs
+C:\Users\Sabrina\Desktop\TAREFAS_LPR\obj\Debug\net9.0\TAREFAS_LPR.csproj.CoreCompileInputs.cache
+C:\Users\Sabrina\Desktop\TAREFAS_LPR\obj\Debug\net9.0\TAREFAS_LPR.dll
+C:\Users\Sabrina\Desktop\TAREFAS_LPR\obj\Debug\net9.0\refint\TAREFAS_LPR.dll
+C:\Users\Sabrina\Desktop\TAREFAS_LPR\obj\Debug\net9.0\TAREFAS_LPR.pdb
+C:\Users\Sabrina\Desktop\TAREFAS_LPR\obj\Debug\net9.0\TAREFAS_LPR.genruntimeconfig.cache
+C:\Users\Sabrina\Desktop\TAREFAS_LPR\obj\Debug\net9.0\ref\TAREFAS_LPR.dll
